@@ -1,5 +1,5 @@
 # vrun.vim
-This is a plugin to set shortcuts to run a project.
+This is a plugin to set shortcuts to run a project. All commands will be executed using [AsyncRun](https://github.com/skywind3000/asyncrun.vim).
 
 ## Requirements
 1. Vim8+
