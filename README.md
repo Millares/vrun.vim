@@ -33,4 +33,3 @@ If you add new shortcuts to the .vrunconfig file, you do not need to close and o
 ```
 
 Author: Millares
-Give me a star if you like
